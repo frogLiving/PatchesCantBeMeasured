@@ -15,3 +15,9 @@ Clean up Patches can't be measured
 3. Clear group policy
 4. Clear SoftwareDist
 5. Start Services 
+
+If you suffer from inconsistent code execution and they are older machines please make sure your devices are patched up.  Server 2012 and below makes sure you patch them to "Windows Management Framework 5.1".  You can see more here.
+
+[WMF 5.1 Download](https://www.microsoft.com/en-us/download/details.aspx/?id=54616)
+
+You can also learn more about WMF or Windows Management Framework [here](https://learn.microsoft.com/en-us/powershell/scripting/windows-powershell/wmf-overview?view=powershell-7.4)
